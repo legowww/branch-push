@@ -1,2 +1,2 @@
 # branch-push
-ci setting
+ci setting1
